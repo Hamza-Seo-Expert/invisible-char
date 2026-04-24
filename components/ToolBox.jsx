@@ -108,7 +108,6 @@ export default function ToolBox({ t = {} }) {
                 <span className="absolute inline-flex h-full w-full rounded-full bg-primary opacity-60 animate-ping" />
                 <span className="relative inline-flex h-1.5 w-1.5 rounded-full bg-primary" />
               </span>
-              Free · No installation · Unlimited
             </span>
             <h1 className="mt-6 font-display text-[2.5rem] sm:text-5xl lg:text-[3.75rem] font-bold leading-[1.02] tracking-tight">
               <span className="text-foreground">{t.hero?.title?.split(" ")[0] ?? "Invisible"}</span>
