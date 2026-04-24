@@ -155,7 +155,7 @@ export default function SEOToolPage() {
         <div aria-hidden className="absolute inset-0 bg-dot-grid opacity-50"></div>
         <div className="relative mx-auto max-w-6xl px-4 sm:px-6 py-20">
           <div className="text-center max-w-2xl mx-auto">
-            <span className="inline-block rounded-full bg-white ring-hairline px-3 py-1 text-[11px] font-medium text-primary uppercase tracking-wider">Step by step</span>
+
             <h2 className="mt-4 font-display text-3xl sm:text-4xl font-bold">
               Steps to use Our <span className="text-gradient">Blank Space Copy Paste tool</span>
             </h2>
@@ -194,7 +194,7 @@ export default function SEOToolPage() {
       <section id="unicode" className="relative bg-white">
         <div className="mx-auto max-w-6xl px-4 sm:px-6 py-20">
           <div className="max-w-3xl">
-            <span className="inline-block rounded-full bg-surface-rose ring-hairline px-3 py-1 text-[11px] font-medium text-primary uppercase tracking-wider">Reference</span>
+
             <h2 className="mt-4 font-display text-3xl sm:text-4xl font-bold">
               What is an <span className="text-gradient">Invisible Character</span>?
             </h2>
@@ -239,7 +239,7 @@ export default function SEOToolPage() {
       <section className="relative bg-secondary/30">
         <div className="mx-auto max-w-6xl px-4 sm:px-6 py-20">
           <div className="text-center max-w-2xl mx-auto">
-            <span className="inline-block rounded-full bg-white ring-hairline px-3 py-1 text-[11px] font-medium text-muted-foreground uppercase tracking-wider">Features</span>
+
             <h2 className="mt-4 font-display text-3xl sm:text-4xl font-bold">
               Extra Features of <span className="text-gradient">Invisible Character</span>
             </h2>
@@ -291,7 +291,7 @@ export default function SEOToolPage() {
       <section id="use-cases" className="relative bg-white">
         <div className="mx-auto max-w-6xl px-4 sm:px-6 py-20">
           <div className="max-w-2xl">
-            <span className="inline-block rounded-full bg-surface-rose ring-hairline px-3 py-1 text-[11px] font-medium text-primary uppercase tracking-wider">Use Cases</span>
+
             <h2 className="mt-4 font-display text-3xl sm:text-4xl font-bold">
               Where to Use <span className="text-gradient">Invisible Characters?</span>
             </h2>
@@ -316,7 +316,7 @@ export default function SEOToolPage() {
       <section className="relative bg-secondary/30">
         <div className="mx-auto max-w-6xl px-4 sm:px-6 py-20">
           <div className="text-center max-w-xl mx-auto">
-            <span className="inline-block rounded-full bg-white ring-hairline px-3 py-1 text-[11px] font-medium text-muted-foreground uppercase tracking-wider">More tools</span>
+
             <h2 className="mt-4 font-display text-3xl sm:text-4xl font-bold"><span className="text-gradient">Other Tools</span></h2>
             <p className="mt-3 text-muted-foreground">Discover more of our popular tools!</p>
           </div>
