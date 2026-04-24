@@ -1,0 +1,47 @@
+{
+  "nav": { "home": "Home", "blog": "Blog", "tools": "Strumenti" },
+  "hero": {
+    "title": "Carattere Invisibile",
+    "subtitle": "Clicca il pulsante qui sotto per copiare un carattere invisibile negli appunti."
+  },
+  "method1": {
+    "title": "Metodo 1",
+    "copySmall": "Copia piccolo ⎵",
+    "copyMedium": "Copia medio ⎵⎵",
+    "copyLarge": "Copia grande ⎵⎵⎵"
+  },
+  "method2": {
+    "title": "Metodo 2",
+    "description": "Genera caratteri vuoti illimitati inserendo il numero di spazi vuoti necessari, poi clicca \"Copia\" e incollali dove vuoi.",
+    "copy": "Copia",
+    "placeholder": "1"
+  },
+  "testArea": {
+    "title": "Prova qui",
+    "description": "Incolla il carattere invisibile qui sotto per il test. Se il testo grigio chiaro scompare, il tuo carattere vuoto funziona!",
+    "placeholder": "Incolla il tuo carattere invisibile qui...",
+    "paste": "Incolla"
+  },
+  "blankSpaceCopy": { "title": "Copia e Incolla Spazio Vuoto", "content": "Il nostro strumento Carattere Invisibile facilita la generazione di testi invisibili che sono spazi utilizzabili dove il computer non riconosce lo spazio come carattere reale." },
+  "whatIs": { "title": "Cos'è un Carattere Invisibile?", "content": "Un carattere invisibile all'occhio umano ma rilevabile dal computer è noto come Carattere Invisibile (Carattere Vuoto). Questi caratteri fanno parte della tabella Unicode." },
+  "whyUse": { "title": "Perché usare il nostro strumento?", "content": "Crea Testo Vuoto con il nostro Carattere Invisibile.", "feature1Title": "Copia e Incolla", "feature1": "Copia e usa i caratteri vuoti direttamente.", "feature2Title": "Caratteri Illimitati", "feature2": "Genera tutti i caratteri invisibili che vuoi.", "feature3Title": "Gratuito", "feature3": "Completamente gratuito da usare.", "feature4Title": "Senza Installazione", "feature4": "Strumento online, nessuna installazione richiesta." },
+  "extraFeatures": { "title": "Funzionalità Extra", "sub": "Alcune funzionalità aggiuntive del nostro strumento", "f1Title": "Facile da Usare", "f1": "Interfaccia intuitiva, semplice anche per i principianti.", "f2Title": "Metodi Multipli", "f2": "Scegli tra diversi metodi per generare caratteri invisibili.", "f3Title": "Supporto Lingue", "f3": "Il nostro strumento supporta molte lingue, incluso l'Italiano." },
+  "useCases": { "title": "Dove Usare i Caratteri Invisibili?", "content": "I caratteri invisibili possono essere usati per vari scopi:", "uc1Title": "1. Messaggi di Testo", "uc1": "Invia messaggi vuoti divertenti ad amici e familiari.", "uc2Title": "2. Profilo Social", "uc2": "Usali nei nomi profilo e nelle bio dei social media.", "uc3Title": "3. Profili Gaming", "uc3": "Crea nomi utente invisibili nei giochi.", "uc4Title": "4. Per la Privacy", "uc4": "Usa caratteri invisibili per scopi di privacy." },
+  "otherTools": { "title": "Altri Strumenti" },
+  "blogs": { "title": "Leggi i nostri articoli", "readMore": "Leggi tutto →" },
+  "faq": {
+    "title": "Domande frequenti",
+    "q1": "Come posso digitare un Carattere Invisibile?",
+    "a1": "Usa il nostro strumento per copiare Testi Vuoti e usali dove vuoi.",
+    "q2": "Posso usare Caratteri Invisibili per inviare un messaggio WhatsApp vuoto?",
+    "a2": "Sì, puoi usare testo vuoto per inviare messaggi WhatsApp vuoti o su qualsiasi altra app.",
+    "q3": "Lo strumento Carattere Invisibile è gratuito?",
+    "a3": "Sì, è completamente gratuito. Non devi pagare nulla.",
+    "q4": "Posso usare Testo Vuoto per nascondere il mio nome utente sui social?",
+    "a4": "Sì, il tuo nome utente sarà nascosto quando usi testo vuoto."
+  },
+  "footer": { "description": "Carattere Invisibile per Creare Testo Vuoto con Spazi Vuoti Invisibili", "resources": "Risorse", "quickLinks": "Link Rapidi", "terms": "Termini e Condizioni", "privacy": "Informativa sulla Privacy", "contact": "Contatto", "copyright": "© Copyright 2026 | invisible-character.net" },
+  "unicodeTable": { "title": "Tabella Unicode", "unicode": "Unicode", "description": "Descrizione", "html": "Html", "example": "Esempio", "copy": "Copia" },
+  "copied": "Copiato!",
+  "copy": "Copia"
+}

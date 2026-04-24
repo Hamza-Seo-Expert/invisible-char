@@ -1,0 +1,47 @@
+{
+  "nav": { "home": "Strona główna", "blog": "Blog", "tools": "Narzędzia" },
+  "hero": {
+    "title": "Niewidzialny Znak",
+    "subtitle": "Kliknij przycisk poniżej, aby skopiować niewidzialny znak do schowka."
+  },
+  "method1": {
+    "title": "Metoda 1",
+    "copySmall": "Kopiuj mały ⎵",
+    "copyMedium": "Kopiuj średni ⎵⎵",
+    "copyLarge": "Kopiuj duży ⎵⎵⎵"
+  },
+  "method2": {
+    "title": "Metoda 2",
+    "description": "Generuj nieograniczoną liczbę pustych znaków, wpisując potrzebną liczbę spacji, a następnie kliknij przycisk Kopiuj i wklej je gdzie chcesz.",
+    "copy": "Kopiuj",
+    "placeholder": "1"
+  },
+  "testArea": {
+    "title": "Przetestuj tutaj",
+    "description": "Wklej niewidzialny znak poniżej, aby przetestować. Jeśli jasnoszary tekst zniknie, oznacza to, że pusty znak działa!",
+    "placeholder": "Wklej tutaj swój niewidzialny znak...",
+    "paste": "Wklej"
+  },
+  "blankSpaceCopy": { "title": "Kopiuj i Wklej Pustą Spację", "content": "Nasze narzędzie Niewidzialny Znak ułatwia generowanie niewidzialnych tekstów, które są spacjami i mogą być używane tam, gdzie komputer nie rozpoznaje spacji jako rzeczywistego znaku." },
+  "whatIs": { "title": "Czym jest Niewidzialny Znak?", "content": "Znak niewidoczny dla ludzkiego oka, ale możliwy do wykrycia przez komputer, znany jest jako Niewidzialny Znak (Pusty Znak). Te puste znaki są częścią tabeli Unicode." },
+  "whyUse": { "title": "Dlaczego używać naszego narzędzia?", "content": "Twórz Pusty Tekst za pomocą naszego Niewidzialnego Znaku.", "feature1Title": "Kopiuj i Wklej", "feature1": "Kopiuj i używaj pustych znaków bezpośrednio.", "feature2Title": "Nieograniczona liczba znaków", "feature2": "Generuj tyle niewidzialnych znaków, ile potrzebujesz.", "feature3Title": "Bezpłatne", "feature3": "Całkowicie bezpłatne w użyciu.", "feature4Title": "Bez instalacji", "feature4": "Narzędzie online, nie wymaga instalacji." },
+  "extraFeatures": { "title": "Dodatkowe funkcje", "sub": "Kilka dodatkowych funkcji naszego narzędzia", "f1Title": "Przyjazny użytkownikowi", "f1": "Intuicyjny interfejs, łatwy nawet dla początkujących.", "f2Title": "Wiele metod", "f2": "Wybierz spośród kilku metod generowania niewidzialnych znaków.", "f3Title": "Obsługa języków", "f3": "Nasze narzędzie obsługuje wiele języków, w tym Polski." },
+  "useCases": { "title": "Gdzie używać Niewidzialnych Znaków?", "content": "Niewidzialne znaki można używać do różnych celów:", "uc1Title": "1. Wiadomości tekstowe", "uc1": "Wysyłaj zabawne puste wiadomości do znajomych i rodziny.", "uc2Title": "2. Profil w mediach społecznościowych", "uc2": "Używaj w nazwach profilów i biogramach w mediach społecznościowych.", "uc3Title": "3. Profile w grach", "uc3": "Twórz niewidzialne nazwy użytkownika w grach.", "uc4Title": "4. Do celów prywatności", "uc4": "Używaj niewidzialnych znaków do celów prywatności." },
+  "otherTools": { "title": "Inne narzędzia" },
+  "blogs": { "title": "Czytaj nasze artykuły", "readMore": "Czytaj więcej →" },
+  "faq": {
+    "title": "Często zadawane pytania",
+    "q1": "Jak wpisać Niewidzialny Znak?",
+    "a1": "Użyj naszego narzędzia, aby skopiować Puste Teksty i używaj ich gdzie chcesz.",
+    "q2": "Czy mogę używać Niewidzialnych Znaków do wysyłania pustej wiadomości WhatsApp?",
+    "a2": "Tak, możesz używać pustego tekstu do wysyłania pustych wiadomości WhatsApp lub innych aplikacji.",
+    "q3": "Czy narzędzie Niewidzialny Znak jest bezpłatne?",
+    "a3": "Tak, jest całkowicie bezpłatne. Nie musisz nic płacić.",
+    "q4": "Czy mogę używać Pustego Tekstu do ukrycia nazwy użytkownika w mediach społecznościowych?",
+    "a4": "Tak, Twoja nazwa użytkownika w profilu mediów społecznościowych zostanie ukryta podczas używania pustego tekstu."
+  },
+  "footer": { "description": "Niewidzialny Znak do tworzenia pustego tekstu z wieloma niewidzialnymi spacjami", "resources": "Zasoby", "quickLinks": "Szybkie linki", "terms": "Regulamin", "privacy": "Polityka prywatności", "contact": "Kontakt", "copyright": "© Copyright 2026 | invisible-character.net" },
+  "unicodeTable": { "title": "Tabela Unicode", "unicode": "Unicode", "description": "Opis", "html": "Html", "example": "Przykład", "copy": "Kopiuj" },
+  "copied": "Skopiowano!",
+  "copy": "Kopiuj"
+}

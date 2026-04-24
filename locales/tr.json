@@ -1,0 +1,47 @@
+{
+  "nav": { "home": "Ana Sayfa", "blog": "Blog", "tools": "Araçlar" },
+  "hero": {
+    "title": "Görünmez Karakter",
+    "subtitle": "Görünmez bir karakteri panonuza kopyalamak için aşağıdaki düğmeye tıklayın."
+  },
+  "method1": {
+    "title": "Yöntem 1",
+    "copySmall": "Küçük Kopyala ⎵",
+    "copyMedium": "Orta Kopyala ⎵⎵",
+    "copyLarge": "Büyük Kopyala ⎵⎵⎵"
+  },
+  "method2": {
+    "title": "Yöntem 2",
+    "description": "İhtiyaç duyduğunuz boş alan sayısını girerek sınırsız boş karakter oluşturun, ardından \"Kopyala\" düğmesine tıklayın ve istediğiniz yere yapıştırın.",
+    "copy": "Kopyala",
+    "placeholder": "1"
+  },
+  "testArea": {
+    "title": "Burada test edin",
+    "description": "Test için görünmez karakteri aşağıya yapıştırın. Açık gri metin kaybolursa boş karakteriniz çalışıyor demektir!",
+    "placeholder": "Görünmez karakterinizi buraya yapıştırın...",
+    "paste": "Yapıştır"
+  },
+  "blankSpaceCopy": { "title": "Boş Alan Kopyala ve Yapıştır", "content": "Görünmez Karakter aracımız, bilgisayarın boşluğu gerçek bir karakter olarak tanımadığı yerlerde kullanılabilecek görünmez metinler oluşturmayı kolaylaştırır." },
+  "whatIs": { "title": "Görünmez Karakter Nedir?", "content": "İnsan gözüne görünmez ancak bilgisayar tarafından algılanabilen karaktere Görünmez Karakter (Boş Karakter) denir. Bu boş karakterler Unicode tablosunun bir parçasıdır." },
+  "whyUse": { "title": "Neden Aracımızı Kullanalım?", "content": "Görünmez Karakter aracımızla Boş Metin oluşturun.", "feature1Title": "Kopyala ve Yapıştır", "feature1": "Boş karakterleri doğrudan kopyalayın ve kullanın.", "feature2Title": "Sınırsız Karakter", "feature2": "İstediğiniz kadar görünmez karakter oluşturun.", "feature3Title": "Ücretsiz", "feature3": "Tamamen ücretsiz kullanım.", "feature4Title": "Kurulum Gerektirmez", "feature4": "Çevrimiçi araç, herhangi bir kurulum gerektirmez." },
+  "extraFeatures": { "title": "Ek Özellikler", "sub": "Aracımızın bazı ek özellikleri", "f1Title": "Kullanıcı Dostu", "f1": "Yeni başlayanlar için bile sezgisel arayüz.", "f2Title": "Çoklu Yöntemler", "f2": "Görünmez karakter oluşturmak için farklı yöntemler arasından seçin.", "f3Title": "Dil Desteği", "f3": "Aracımız Türkçe dahil birçok dili destekler." },
+  "useCases": { "title": "Görünmez Karakterleri Nerede Kullanabilirsiniz?", "content": "Görünmez karakterler çeşitli amaçlar için kullanılabilir:", "uc1Title": "1. Kısa Mesajlaşma", "uc1": "Arkadaşlarınıza ve ailenize eğlenceli boş mesajlar gönderin.", "uc2Title": "2. Sosyal Medya Profili", "uc2": "Sosyal medya profil adlarında ve biyografilerinde kullanın.", "uc3Title": "3. Oyun Profilleri", "uc3": "Oyun profillerinizde görünmez kullanıcı adları oluşturun.", "uc4Title": "4. Gizlilik Amaçlı", "uc4": "Gizlilik amaçları için görünmez karakterler kullanın." },
+  "otherTools": { "title": "Diğer Araçlar" },
+  "blogs": { "title": "Bloglarımızı okuyun", "readMore": "Devamını oku →" },
+  "faq": {
+    "title": "Sıkça sorulan sorular",
+    "q1": "Görünmez Karakter Nasıl Yazılır?",
+    "a1": "Boş Metin yazmak için Görünmez Karakter aracımızı kullanın. Boş Metni kopyalayıp istediğiniz yerde kullanın.",
+    "q2": "Boş WhatsApp Mesajı Göndermek İçin Görünmez Karakter Kullanabilir miyim?",
+    "a2": "Evet, boş mesaj göndermek için boş metin veya herhangi bir mesajlaşma uygulamasını kullanabilirsiniz.",
+    "q3": "Görünmez Karakter Aracı Ücretsiz mi?",
+    "a3": "Evet, Görünmez Karakter tamamen ücretsizdir. Hiçbir ücret ödemek zorunda değilsiniz.",
+    "q4": "Sosyal Medya Kullanıcı Adımı Gizlemek İçin Boş Metin Kullanabilir miyim?",
+    "a4": "Evet, boş metin kullandığınızda sosyal medya profil kullanıcı adınız gizlenecektir."
+  },
+  "footer": { "description": "Çoklu Görünmez Boş Alanlara Sahip Boş Metin Oluşturmak için Görünmez Karakter", "resources": "Kaynaklar", "quickLinks": "Hızlı Bağlantılar", "terms": "Kullanım Şartları", "privacy": "Gizlilik Politikası", "contact": "İletişim", "copyright": "© Telif Hakkı 2026 | invisible-character.net" },
+  "unicodeTable": { "title": "Unicode Tablosu", "unicode": "Unicode", "description": "Açıklama", "html": "Html", "example": "Örnek", "copy": "Kopyala" },
+  "copied": "Kopyalandı!",
+  "copy": "Kopyala"
+}

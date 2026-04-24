@@ -1,0 +1,108 @@
+{
+  "nav": {
+    "home": "Home",
+    "blog": "Blog",
+    "tools": "Tools"
+  },
+  "hero": {
+    "title": "Invisible Character",
+    "subtitle": "Click the button below to copy an invisible character to your clipboard."
+  },
+  "method1": {
+    "title": "Method 1",
+    "copySmall": "Copy small &#9251;",
+    "copyMedium": "Copy medium &#9251;&#9251;",
+    "copyLarge": "Copy large &#9251;&#9251;&#9251;"
+  },
+  "method2": {
+    "title": "Method 2",
+    "description": "Generate unlimited empty characters by entering the number of blank spaces you need, then click the \"Copy\" button and paste them where you want.",
+    "copy": "Copy",
+    "placeholder": "1"
+  },
+  "testArea": {
+    "title": "Test here",
+    "description": "Paste the invisible letter below for the test. If light grey text disappears, it means your blank character worked!",
+    "placeholder": "Paste invisible character here...",
+    "paste": "Paste"
+  },
+  "blankSpaceCopy": {
+    "title": "Blank Space Copy and Paste",
+    "content": "Our Invisible Character tool makes it easy to generate invisible texts are actually spaces and can be used in places where the computer does not recognize the space as an actual character."
+  },
+  "whatIs": {
+    "title": "What is an Invisible Character?",
+    "content": "A character that is invisible to the human eye but can be detected and read by the computer is known as an Invisible Character (Empty Character). These empty characters are part of a Unicode table. These Blank Texts are actually spaces and can be used at all places where the computer does not consider the space as an actual character."
+  },
+  "whyUse": {
+    "title": "Why Use Our Invisible Character Tool?",
+    "content": "You can create Blank Text ( ) with the help of our invisible Character due to the following features are mentioned below.",
+    "feature1Title": "Blank Space Copy and Paste Option",
+    "feature1": "Our Invisible Character allows you to generate and use the empty characters by directly copying and using them. There are multiple options available for copying Empty Characters. You can copy the blank Text directly by clicking on the \"copy\" button or do it manually by selecting first and copying it (ctrl + C).",
+    "feature2Title": "Unlimited Number of Characters:",
+    "feature2": "You can use our invisible character generator to get an unlimited number of invisible characters. Our character limit is unlimited. This method provides Dashed box, where you can write the amount of Blank Space that you want to generate.",
+    "feature3Title": "Free to Use",
+    "feature3": "Our Invisible Character is completely free to use. You don't have to pay anything in order to create blank texts for yourself.",
+    "feature4Title": "No Installation Required",
+    "feature4": "No installation required to add stunning blank texts with our invisible character. It's an online tool that generates blank text online that doesn't require you to download and install any files. You can use this tool for the purpose of creating invisible space character or text."
+  },
+  "extraFeatures": {
+    "title": "Extra Features of Invisible Character",
+    "sub": "Here are some extra features of our invisible text generator tool that makes it a unique choice",
+    "f1Title": "User-Friendly",
+    "f1": "Any invisible character is the most user-friendly and easiest of three methods to navigate even for newbies.",
+    "f2Title": "Multiple Methods",
+    "f2": "Invisible Character is the best friendly of three invisible character methods. You can choose from multiple methods to generate invisible characters. You can use the ones you are comfortable with.",
+    "f3Title": "Language Support",
+    "f3": "Our Invisible Character can support various languages including Indonesian, Portuguese, French, Spanish, Turkish, Italian, German, Arabic, Japanese, and more."
+  },
+  "useCases": {
+    "title": "Where to Use Invisible Characters?",
+    "content": "The invisible characters can be used for several purposes. Some of the major uses include the following:",
+    "uc1Title": "1. Text Messaging",
+    "uc1": "You can put these invisible characters to send funny empty messages to your friends and family. Most social chatting apps do not allow you to send blank spaces directly. But these empty characters work perfectly fine with most chatting and messaging applications.",
+    "uc2Title": "2. Social Media Profile",
+    "uc2": "Invisible character can be used in social media profile names and bios. This gives your profile a very sleek and unique look.",
+    "uc3Title": "3. Gaming Profiles",
+    "uc3": "Similarly, you can use invisible character to create the usernames invisible on your gaming profiles.",
+    "uc4Title": "4. For Privacy Purposes",
+    "uc4": "You can use invisible characters for privacy purposes. For example, if you do not want to reveal your address in a form online, you can use these empty characters to fill the address section."
+  },
+  "otherTools": {
+    "title": "Other Tools"
+  },
+  "blogs": {
+    "title": "Read our blogs",
+    "readMore": "Read More →"
+  },
+  "faq": {
+    "title": "Frequently asked questions",
+    "q1": "How can I type an Invisible Character?",
+    "a1": "You can use our Invisible Character tools to type Blank Texts. Just copy these Blank Texts and use them wherever you want.",
+    "q2": "Can I Use Invisible Characters to Send an Empty WhatsApp Message?",
+    "a2": "Yes, you can use our tool to send Empty WhatsApp messages. Just open the WhatsApp messaging application.",
+    "q3": "Is the Invisible Character Tool free to use?",
+    "a3": "Yes, the Invisible Character is completely free to use. You don't have to invest any money in order to start creating empty texts with it.",
+    "q4": "Can I Use Blank Text to Hide My Identity on Social Media?",
+    "a4": "Yes, you can use your username on your social media profile will not be visible to others. Using blank text you can hide your social media identity."
+  },
+  "footer": {
+    "description": "Invisible Character Used to Create Empty Text having Multiple Invisible Blank Spaces",
+    "resources": "Resources",
+    "quickLinks": "Quick Links",
+    "terms": "Terms & Conditions",
+    "privacy": "Privacy Policy",
+    "contact": "Contact",
+    "copyright": "© Copyright 2026 | invisible-character.net"
+  },
+  "unicodeTable": {
+    "title": "Unicode Table",
+    "unicode": "Unicode",
+    "description": "Description",
+    "html": "Html",
+    "example": "Example",
+    "copy": "Copy"
+  },
+  "copied": "Copied!",
+  "copy": "Copy"
+}

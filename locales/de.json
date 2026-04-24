@@ -1,0 +1,47 @@
+{
+  "nav": { "home": "Startseite", "blog": "Blog", "tools": "Werkzeuge" },
+  "hero": {
+    "title": "Unsichtbares Zeichen",
+    "subtitle": "Klicken Sie auf die Schaltfläche unten, um ein unsichtbares Zeichen in Ihre Zwischenablage zu kopieren."
+  },
+  "method1": {
+    "title": "Methode 1",
+    "copySmall": "Klein kopieren ⎵",
+    "copyMedium": "Mittel kopieren ⎵⎵",
+    "copyLarge": "Groß kopieren ⎵⎵⎵"
+  },
+  "method2": {
+    "title": "Methode 2",
+    "description": "Erstellen Sie unbegrenzte leere Zeichen, indem Sie die Anzahl der benötigten Leerzeichen eingeben, dann auf \"Kopieren\" klicken und sie einfügen.",
+    "copy": "Kopieren",
+    "placeholder": "1"
+  },
+  "testArea": {
+    "title": "Hier testen",
+    "description": "Fügen Sie das unsichtbare Zeichen unten zum Testen ein. Wenn der hellgraue Text verschwindet, funktioniert Ihr Leerzeichen!",
+    "placeholder": "Fügen Sie Ihr unsichtbares Zeichen hier ein...",
+    "paste": "Einfügen"
+  },
+  "blankSpaceCopy": { "title": "Leerzeichen Kopieren und Einfügen", "content": "Unser Werkzeug für unsichtbare Zeichen erleichtert die Erstellung unsichtbarer Texte, die eigentlich Leerzeichen sind." },
+  "whatIs": { "title": "Was ist ein Unsichtbares Zeichen?", "content": "Ein für das menschliche Auge unsichtbares, aber vom Computer erkennbares Zeichen ist als Unsichtbares Zeichen (Leerzeichen) bekannt. Diese Zeichen sind Teil der Unicode-Tabelle." },
+  "whyUse": { "title": "Warum unser Werkzeug verwenden?", "content": "Erstellen Sie leeren Text mit unserem unsichtbaren Zeichen.", "feature1Title": "Kopieren und Einfügen", "feature1": "Kopieren und verwenden Sie leere Zeichen direkt.", "feature2Title": "Unbegrenzte Anzahl", "feature2": "Erstellen Sie so viele unsichtbare Zeichen wie benötigt.", "feature3Title": "Kostenlos", "feature3": "Völlig kostenlos nutzbar.", "feature4Title": "Keine Installation", "feature4": "Online-Werkzeug, keine Installation erforderlich." },
+  "extraFeatures": { "title": "Zusätzliche Funktionen", "sub": "Weitere Funktionen unseres Generators", "f1Title": "Benutzerfreundlich", "f1": "Intuitive Benutzeroberfläche, auch für Anfänger.", "f2Title": "Mehrere Methoden", "f2": "Wählen Sie aus verschiedenen Methoden zur Zeichenerstellung.", "f3Title": "Sprachunterstützung", "f3": "Unser Werkzeug unterstützt viele Sprachen, darunter Deutsch." },
+  "useCases": { "title": "Wo Unsichtbare Zeichen verwenden?", "content": "Unsichtbare Zeichen können für verschiedene Zwecke genutzt werden:", "uc1Title": "1. Textnachrichten", "uc1": "Senden Sie lustige leere Nachrichten an Freunde und Familie.", "uc2Title": "2. Social-Media-Profil", "uc2": "Verwenden Sie in Profilnamen und Bios in sozialen Medien.", "uc3Title": "3. Gaming-Profile", "uc3": "Erstellen Sie unsichtbare Benutzernamen in Spielen.", "uc4Title": "4. Für Datenschutz", "uc4": "Nutzen Sie unsichtbare Zeichen für Datenschutzzwecke." },
+  "otherTools": { "title": "Weitere Werkzeuge" },
+  "blogs": { "title": "Unsere Artikel lesen", "readMore": "Mehr lesen →" },
+  "faq": {
+    "title": "Häufig gestellte Fragen",
+    "q1": "Wie kann ich ein Unsichtbares Zeichen eingeben?",
+    "a1": "Verwenden Sie unser Werkzeug, um leere Texte zu kopieren und überall einzusetzen.",
+    "q2": "Kann ich Unsichtbare Zeichen verwenden, um eine leere WhatsApp-Nachricht zu senden?",
+    "a2": "Ja, Sie können leeren Text verwenden, um leere WhatsApp-Nachrichten zu senden.",
+    "q3": "Ist das Werkzeug für Unsichtbare Zeichen kostenlos?",
+    "a3": "Ja, es ist vollständig kostenlos. Sie müssen nichts bezahlen.",
+    "q4": "Kann ich Leerzeichen verwenden, um meinen Social-Media-Benutzernamen zu verbergen?",
+    "a4": "Ja, Ihr Benutzername wird ausgeblendet, wenn Sie leeren Text verwenden."
+  },
+  "footer": { "description": "Unsichtbares Zeichen zur Erstellung von leerem Text mit unsichtbaren Leerzeichen", "resources": "Ressourcen", "quickLinks": "Schnelllinks", "terms": "Nutzungsbedingungen", "privacy": "Datenschutzrichtlinie", "contact": "Kontakt", "copyright": "© Copyright 2026 | invisible-character.net" },
+  "unicodeTable": { "title": "Unicode-Tabelle", "unicode": "Unicode", "description": "Beschreibung", "html": "Html", "example": "Beispiel", "copy": "Kopieren" },
+  "copied": "Kopiert!",
+  "copy": "Kopieren"
+}

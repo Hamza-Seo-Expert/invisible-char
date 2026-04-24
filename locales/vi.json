@@ -1,0 +1,47 @@
+{
+  "nav": { "home": "Trang chủ", "blog": "Blog", "tools": "Công cụ" },
+  "hero": {
+    "title": "Ký Tự Vô Hình",
+    "subtitle": "Nhấp vào nút bên dưới để sao chép ký tự vô hình vào khay nhớ tạm của bạn."
+  },
+  "method1": {
+    "title": "Phương pháp 1",
+    "copySmall": "Sao chép nhỏ ⎵",
+    "copyMedium": "Sao chép vừa ⎵⎵",
+    "copyLarge": "Sao chép lớn ⎵⎵⎵"
+  },
+  "method2": {
+    "title": "Phương pháp 2",
+    "description": "Tạo ký tự trống không giới hạn bằng cách nhập số lượng khoảng trắng bạn cần, sau đó nhấp vào \"Sao chép\" và dán vào nơi bạn muốn.",
+    "copy": "Sao chép",
+    "placeholder": "1"
+  },
+  "testArea": {
+    "title": "Kiểm tra tại đây",
+    "description": "Dán ký tự vô hình bên dưới để kiểm tra. Nếu văn bản màu xám nhạt biến mất, có nghĩa là ký tự trống của bạn hoạt động!",
+    "placeholder": "Dán ký tự vô hình của bạn tại đây...",
+    "paste": "Dán"
+  },
+  "blankSpaceCopy": { "title": "Sao Chép và Dán Khoảng Trắng", "content": "Công cụ Ký Tự Vô Hình của chúng tôi giúp dễ dàng tạo ra các văn bản vô hình thực chất là khoảng trắng." },
+  "whatIs": { "title": "Ký Tự Vô Hình là gì?", "content": "Một ký tự vô hình với mắt người nhưng có thể được máy tính phát hiện được gọi là Ký Tự Vô Hình (Ký Tự Trống). Những ký tự này là một phần của bảng Unicode." },
+  "whyUse": { "title": "Tại sao dùng công cụ của chúng tôi?", "content": "Tạo Văn Bản Trống với Ký Tự Vô Hình của chúng tôi.", "feature1Title": "Sao Chép và Dán", "feature1": "Sao chép và sử dụng ký tự trống trực tiếp.", "feature2Title": "Số Lượng Không Giới Hạn", "feature2": "Tạo bao nhiêu ký tự vô hình tùy ý.", "feature3Title": "Miễn Phí", "feature3": "Hoàn toàn miễn phí.", "feature4Title": "Không Cần Cài Đặt", "feature4": "Công cụ trực tuyến, không cần cài đặt." },
+  "extraFeatures": { "title": "Tính Năng Bổ Sung", "sub": "Một số tính năng bổ sung của công cụ chúng tôi", "f1Title": "Dễ Sử Dụng", "f1": "Giao diện trực quan, dễ sử dụng kể cả với người mới.", "f2Title": "Nhiều Phương Pháp", "f2": "Chọn từ nhiều phương pháp khác nhau.", "f3Title": "Hỗ Trợ Ngôn Ngữ", "f3": "Công cụ hỗ trợ nhiều ngôn ngữ, bao gồm Tiếng Việt." },
+  "useCases": { "title": "Sử Dụng Ký Tự Vô Hình Ở Đâu?", "content": "Ký tự vô hình có thể được sử dụng cho nhiều mục đích:", "uc1Title": "1. Nhắn Tin", "uc1": "Gửi tin nhắn trống vui nhộn cho bạn bè và gia đình.", "uc2Title": "2. Hồ Sơ Mạng Xã Hội", "uc2": "Dùng trong tên hồ sơ và tiểu sử mạng xã hội.", "uc3Title": "3. Hồ Sơ Game", "uc3": "Tạo tên người dùng vô hình trong các trò chơi.", "uc4Title": "4. Vì Mục Đích Riêng Tư", "uc4": "Sử dụng ký tự vô hình vì mục đích riêng tư." },
+  "otherTools": { "title": "Công Cụ Khác" },
+  "blogs": { "title": "Đọc bài viết của chúng tôi", "readMore": "Đọc thêm →" },
+  "faq": {
+    "title": "Câu hỏi thường gặp",
+    "q1": "Làm thế nào để gõ Ký Tự Vô Hình?",
+    "a1": "Dùng công cụ của chúng tôi để sao chép Văn Bản Trống và sử dụng ở bất kỳ đâu bạn muốn.",
+    "q2": "Tôi có thể dùng Ký Tự Vô Hình để gửi tin nhắn WhatsApp trống không?",
+    "a2": "Có, bạn có thể dùng văn bản trống để gửi tin nhắn WhatsApp trống hoặc bất kỳ ứng dụng nhắn tin nào.",
+    "q3": "Công cụ Ký Tự Vô Hình có miễn phí không?",
+    "a3": "Có, hoàn toàn miễn phí. Bạn không cần trả bất kỳ khoản tiền nào.",
+    "q4": "Tôi có thể dùng Văn Bản Trống để ẩn tên người dùng mạng xã hội không?",
+    "a4": "Có, tên người dùng của bạn sẽ bị ẩn khi sử dụng văn bản trống."
+  },
+  "footer": { "description": "Ký Tự Vô Hình để Tạo Văn Bản Trống với Nhiều Khoảng Trắng Vô Hình", "resources": "Tài Nguyên", "quickLinks": "Liên Kết Nhanh", "terms": "Điều khoản & Điều kiện", "privacy": "Chính sách Bảo mật", "contact": "Liên hệ", "copyright": "© Bản quyền 2026 | invisible-character.net" },
+  "unicodeTable": { "title": "Bảng Unicode", "unicode": "Unicode", "description": "Mô tả", "html": "Html", "example": "Ví dụ", "copy": "Sao chép" },
+  "copied": "Đã sao chép!",
+  "copy": "Sao chép"
+}

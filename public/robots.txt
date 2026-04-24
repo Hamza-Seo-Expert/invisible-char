@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://www.invisible-character.net/sitemap.xml
+Host: https://www.invisible-character.net

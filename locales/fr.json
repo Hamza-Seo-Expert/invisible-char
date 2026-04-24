@@ -1,0 +1,47 @@
+{
+  "nav": { "home": "Accueil", "blog": "Blog", "tools": "Outils" },
+  "hero": {
+    "title": "Caractère Invisible",
+    "subtitle": "Cliquez sur le bouton ci-dessous pour copier un caractère invisible dans votre presse-papiers."
+  },
+  "method1": {
+    "title": "Méthode 1",
+    "copySmall": "Copier petit ⎵",
+    "copyMedium": "Copier moyen ⎵⎵",
+    "copyLarge": "Copier grand ⎵⎵⎵"
+  },
+  "method2": {
+    "title": "Méthode 2",
+    "description": "Générez un nombre illimité de caractères vides en entrant le nombre d'espaces dont vous avez besoin, puis cliquez sur \"Copier\" et collez-les où vous voulez.",
+    "copy": "Copier",
+    "placeholder": "1"
+  },
+  "testArea": {
+    "title": "Testez ici",
+    "description": "Collez le caractère invisible ci-dessous pour le test. Si le texte gris clair disparaît, cela signifie que votre caractère vide fonctionne !",
+    "placeholder": "Collez votre caractère invisible ici...",
+    "paste": "Coller"
+  },
+  "blankSpaceCopy": { "title": "Copier-Coller un Espace Vide", "content": "Notre outil de Caractère Invisible facilite la génération de textes invisibles qui sont en réalité des espaces pouvant être utilisés là où l'ordinateur ne reconnaît pas l'espace comme un caractère réel." },
+  "whatIs": { "title": "Qu'est-ce qu'un Caractère Invisible ?", "content": "Un caractère invisible à l'œil humain mais détectable par l'ordinateur est connu comme Caractère Invisible (Caractère Vide). Ces caractères font partie de la table Unicode." },
+  "whyUse": { "title": "Pourquoi utiliser notre outil ?", "content": "Créez du Texte Vide grâce à notre Caractère Invisible.", "feature1Title": "Copier-Coller", "feature1": "Copiez et utilisez les caractères vides directement.", "feature2Title": "Caractères Illimités", "feature2": "Générez autant de caractères invisibles que vous le souhaitez.", "feature3Title": "Gratuit", "feature3": "Complètement gratuit, sans frais.", "feature4Title": "Sans Installation", "feature4": "Outil en ligne, aucune installation requise." },
+  "extraFeatures": { "title": "Fonctionnalités Supplémentaires", "sub": "Voici quelques fonctionnalités supplémentaires de notre outil", "f1Title": "Facile à Utiliser", "f1": "Interface intuitive, facile même pour les débutants.", "f2Title": "Méthodes Multiples", "f2": "Choisissez parmi plusieurs méthodes pour générer des caractères invisibles.", "f3Title": "Support Multilingue", "f3": "Notre outil supporte de nombreuses langues dont le Français." },
+  "useCases": { "title": "Où Utiliser les Caractères Invisibles ?", "content": "Les caractères invisibles peuvent être utilisés à plusieurs fins :", "uc1Title": "1. Messagerie", "uc1": "Envoyez des messages vides amusants à vos amis et famille.", "uc2Title": "2. Profil Réseaux Sociaux", "uc2": "Utilisez-les dans les noms de profil et les bios des réseaux sociaux.", "uc3Title": "3. Profils de Jeux", "uc3": "Créez des noms d'utilisateur invisibles dans les jeux.", "uc4Title": "4. Pour la Confidentialité", "uc4": "Protégez votre vie privée avec des caractères invisibles." },
+  "otherTools": { "title": "Autres Outils" },
+  "blogs": { "title": "Lire nos articles", "readMore": "Lire la suite →" },
+  "faq": {
+    "title": "Questions fréquemment posées",
+    "q1": "Comment puis-je taper un Caractère Invisible ?",
+    "a1": "Utilisez notre outil pour copier des Textes Vides et utilisez-les où vous voulez.",
+    "q2": "Puis-je utiliser des Caractères Invisibles pour envoyer un message WhatsApp vide ?",
+    "a2": "Oui, vous pouvez utiliser du texte vide pour envoyer des messages WhatsApp vides ou sur toute autre application.",
+    "q3": "L'outil de Caractère Invisible est-il gratuit ?",
+    "a3": "Oui, le Caractère Invisible est entièrement gratuit. Vous n'avez rien à payer.",
+    "q4": "Puis-je utiliser du Texte Vide pour masquer mon nom d'utilisateur sur les réseaux sociaux ?",
+    "a4": "Oui, votre nom d'utilisateur sera masqué sur votre profil de réseau social lorsque vous utilisez du texte vide."
+  },
+  "footer": { "description": "Caractère Invisible pour Créer du Texte Vide avec Plusieurs Espaces Vides Invisibles", "resources": "Ressources", "quickLinks": "Liens Rapides", "terms": "Conditions d'utilisation", "privacy": "Politique de Confidentialité", "contact": "Contact", "copyright": "© Copyright 2026 | invisible-character.net" },
+  "unicodeTable": { "title": "Table Unicode", "unicode": "Unicode", "description": "Description", "html": "Html", "example": "Exemple", "copy": "Copier" },
+  "copied": "Copié !",
+  "copy": "Copier"
+}

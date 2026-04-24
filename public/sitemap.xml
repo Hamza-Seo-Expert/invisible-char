@@ -1,0 +1,453 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+
+  <!-- Root -->
+  <url>
+    <loc>https://www.invisible-character.net/</loc>
+    <lastmod>2026-04-22</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://www.invisible-character.net/en/</loc>
+    <lastmod>2026-04-22</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.invisible-character.net/en/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://www.invisible-character.net/es/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://www.invisible-character.net/pt/"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://www.invisible-character.net/ar/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.invisible-character.net/en/"/>
+  </url>
+  <url>
+    <loc>https://www.invisible-character.net/es/</loc>
+    <lastmod>2026-04-22</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.invisible-character.net/en/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://www.invisible-character.net/es/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://www.invisible-character.net/pt/"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://www.invisible-character.net/ar/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.invisible-character.net/en/"/>
+  </url>
+  <url>
+    <loc>https://www.invisible-character.net/pt/</loc>
+    <lastmod>2026-04-22</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.invisible-character.net/en/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://www.invisible-character.net/es/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://www.invisible-character.net/pt/"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://www.invisible-character.net/ar/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.invisible-character.net/en/"/>
+  </url>
+  <url>
+    <loc>https://www.invisible-character.net/ar/</loc>
+    <lastmod>2026-04-22</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.invisible-character.net/en/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://www.invisible-character.net/es/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://www.invisible-character.net/pt/"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://www.invisible-character.net/ar/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.invisible-character.net/en/"/>
+  </url>
+  <url>
+    <loc>https://www.invisible-character.net/en/blog/</loc>
+    <lastmod>2026-04-22</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.invisible-character.net/en/blog/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://www.invisible-character.net/es/blog/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://www.invisible-character.net/pt/blog/"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://www.invisible-character.net/ar/blog/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.invisible-character.net/en/blog//"/>
+  </url>
+  <url>
+    <loc>https://www.invisible-character.net/es/blog/</loc>
+    <lastmod>2026-04-22</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.invisible-character.net/en/blog/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://www.invisible-character.net/es/blog/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://www.invisible-character.net/pt/blog/"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://www.invisible-character.net/ar/blog/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.invisible-character.net/en/blog//"/>
+  </url>
+  <url>
+    <loc>https://www.invisible-character.net/pt/blog/</loc>
+    <lastmod>2026-04-22</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.invisible-character.net/en/blog/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://www.invisible-character.net/es/blog/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://www.invisible-character.net/pt/blog/"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://www.invisible-character.net/ar/blog/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.invisible-character.net/en/blog//"/>
+  </url>
+  <url>
+    <loc>https://www.invisible-character.net/ar/blog/</loc>
+    <lastmod>2026-04-22</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.invisible-character.net/en/blog/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://www.invisible-character.net/es/blog/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://www.invisible-character.net/pt/blog/"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://www.invisible-character.net/ar/blog/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.invisible-character.net/en/blog//"/>
+  </url>
+  <url>
+    <loc>https://www.invisible-character.net/en/invisible-character-for-discord/</loc>
+    <lastmod>2026-04-22</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.invisible-character.net/en/invisible-character-for-discord/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://www.invisible-character.net/es/invisible-character-for-discord/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://www.invisible-character.net/pt/invisible-character-for-discord/"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://www.invisible-character.net/ar/invisible-character-for-discord/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.invisible-character.net/en/invisible-character-for-discord//"/>
+  </url>
+  <url>
+    <loc>https://www.invisible-character.net/es/invisible-character-for-discord/</loc>
+    <lastmod>2026-04-22</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.invisible-character.net/en/invisible-character-for-discord/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://www.invisible-character.net/es/invisible-character-for-discord/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://www.invisible-character.net/pt/invisible-character-for-discord/"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://www.invisible-character.net/ar/invisible-character-for-discord/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.invisible-character.net/en/invisible-character-for-discord//"/>
+  </url>
+  <url>
+    <loc>https://www.invisible-character.net/pt/invisible-character-for-discord/</loc>
+    <lastmod>2026-04-22</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.invisible-character.net/en/invisible-character-for-discord/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://www.invisible-character.net/es/invisible-character-for-discord/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://www.invisible-character.net/pt/invisible-character-for-discord/"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://www.invisible-character.net/ar/invisible-character-for-discord/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.invisible-character.net/en/invisible-character-for-discord//"/>
+  </url>
+  <url>
+    <loc>https://www.invisible-character.net/ar/invisible-character-for-discord/</loc>
+    <lastmod>2026-04-22</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.invisible-character.net/en/invisible-character-for-discord/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://www.invisible-character.net/es/invisible-character-for-discord/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://www.invisible-character.net/pt/invisible-character-for-discord/"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://www.invisible-character.net/ar/invisible-character-for-discord/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.invisible-character.net/en/invisible-character-for-discord//"/>
+  </url>
+  <url>
+    <loc>https://www.invisible-character.net/en/blank-text-instagram/</loc>
+    <lastmod>2026-04-22</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.invisible-character.net/en/blank-text-instagram/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://www.invisible-character.net/es/blank-text-instagram/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://www.invisible-character.net/pt/blank-text-instagram/"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://www.invisible-character.net/ar/blank-text-instagram/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.invisible-character.net/en/blank-text-instagram//"/>
+  </url>
+  <url>
+    <loc>https://www.invisible-character.net/es/blank-text-instagram/</loc>
+    <lastmod>2026-04-22</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.invisible-character.net/en/blank-text-instagram/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://www.invisible-character.net/es/blank-text-instagram/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://www.invisible-character.net/pt/blank-text-instagram/"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://www.invisible-character.net/ar/blank-text-instagram/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.invisible-character.net/en/blank-text-instagram//"/>
+  </url>
+  <url>
+    <loc>https://www.invisible-character.net/pt/blank-text-instagram/</loc>
+    <lastmod>2026-04-22</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.invisible-character.net/en/blank-text-instagram/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://www.invisible-character.net/es/blank-text-instagram/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://www.invisible-character.net/pt/blank-text-instagram/"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://www.invisible-character.net/ar/blank-text-instagram/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.invisible-character.net/en/blank-text-instagram//"/>
+  </url>
+  <url>
+    <loc>https://www.invisible-character.net/ar/blank-text-instagram/</loc>
+    <lastmod>2026-04-22</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.invisible-character.net/en/blank-text-instagram/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://www.invisible-character.net/es/blank-text-instagram/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://www.invisible-character.net/pt/blank-text-instagram/"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://www.invisible-character.net/ar/blank-text-instagram/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.invisible-character.net/en/blank-text-instagram//"/>
+  </url>
+  <url>
+    <loc>https://www.invisible-character.net/en/empty-name-pubg/</loc>
+    <lastmod>2026-04-22</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.invisible-character.net/en/empty-name-pubg/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://www.invisible-character.net/es/empty-name-pubg/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://www.invisible-character.net/pt/empty-name-pubg/"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://www.invisible-character.net/ar/empty-name-pubg/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.invisible-character.net/en/empty-name-pubg//"/>
+  </url>
+  <url>
+    <loc>https://www.invisible-character.net/es/empty-name-pubg/</loc>
+    <lastmod>2026-04-22</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.invisible-character.net/en/empty-name-pubg/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://www.invisible-character.net/es/empty-name-pubg/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://www.invisible-character.net/pt/empty-name-pubg/"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://www.invisible-character.net/ar/empty-name-pubg/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.invisible-character.net/en/empty-name-pubg//"/>
+  </url>
+  <url>
+    <loc>https://www.invisible-character.net/pt/empty-name-pubg/</loc>
+    <lastmod>2026-04-22</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.invisible-character.net/en/empty-name-pubg/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://www.invisible-character.net/es/empty-name-pubg/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://www.invisible-character.net/pt/empty-name-pubg/"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://www.invisible-character.net/ar/empty-name-pubg/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.invisible-character.net/en/empty-name-pubg//"/>
+  </url>
+  <url>
+    <loc>https://www.invisible-character.net/ar/empty-name-pubg/</loc>
+    <lastmod>2026-04-22</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.invisible-character.net/en/empty-name-pubg/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://www.invisible-character.net/es/empty-name-pubg/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://www.invisible-character.net/pt/empty-name-pubg/"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://www.invisible-character.net/ar/empty-name-pubg/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.invisible-character.net/en/empty-name-pubg//"/>
+  </url>
+  <url>
+    <loc>https://www.invisible-character.net/en/invisible-text-whatsapp/</loc>
+    <lastmod>2026-04-22</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.invisible-character.net/en/invisible-text-whatsapp/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://www.invisible-character.net/es/invisible-text-whatsapp/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://www.invisible-character.net/pt/invisible-text-whatsapp/"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://www.invisible-character.net/ar/invisible-text-whatsapp/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.invisible-character.net/en/invisible-text-whatsapp//"/>
+  </url>
+  <url>
+    <loc>https://www.invisible-character.net/es/invisible-text-whatsapp/</loc>
+    <lastmod>2026-04-22</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.invisible-character.net/en/invisible-text-whatsapp/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://www.invisible-character.net/es/invisible-text-whatsapp/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://www.invisible-character.net/pt/invisible-text-whatsapp/"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://www.invisible-character.net/ar/invisible-text-whatsapp/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.invisible-character.net/en/invisible-text-whatsapp//"/>
+  </url>
+  <url>
+    <loc>https://www.invisible-character.net/pt/invisible-text-whatsapp/</loc>
+    <lastmod>2026-04-22</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.invisible-character.net/en/invisible-text-whatsapp/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://www.invisible-character.net/es/invisible-text-whatsapp/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://www.invisible-character.net/pt/invisible-text-whatsapp/"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://www.invisible-character.net/ar/invisible-text-whatsapp/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.invisible-character.net/en/invisible-text-whatsapp//"/>
+  </url>
+  <url>
+    <loc>https://www.invisible-character.net/ar/invisible-text-whatsapp/</loc>
+    <lastmod>2026-04-22</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.invisible-character.net/en/invisible-text-whatsapp/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://www.invisible-character.net/es/invisible-text-whatsapp/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://www.invisible-character.net/pt/invisible-text-whatsapp/"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://www.invisible-character.net/ar/invisible-text-whatsapp/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.invisible-character.net/en/invisible-text-whatsapp//"/>
+  </url>
+  <url>
+    <loc>https://www.invisible-character.net/en/copy-blank-space/</loc>
+    <lastmod>2026-04-22</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.invisible-character.net/en/copy-blank-space/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://www.invisible-character.net/es/copy-blank-space/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://www.invisible-character.net/pt/copy-blank-space/"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://www.invisible-character.net/ar/copy-blank-space/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.invisible-character.net/en/copy-blank-space//"/>
+  </url>
+  <url>
+    <loc>https://www.invisible-character.net/es/copy-blank-space/</loc>
+    <lastmod>2026-04-22</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.invisible-character.net/en/copy-blank-space/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://www.invisible-character.net/es/copy-blank-space/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://www.invisible-character.net/pt/copy-blank-space/"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://www.invisible-character.net/ar/copy-blank-space/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.invisible-character.net/en/copy-blank-space//"/>
+  </url>
+  <url>
+    <loc>https://www.invisible-character.net/pt/copy-blank-space/</loc>
+    <lastmod>2026-04-22</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.invisible-character.net/en/copy-blank-space/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://www.invisible-character.net/es/copy-blank-space/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://www.invisible-character.net/pt/copy-blank-space/"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://www.invisible-character.net/ar/copy-blank-space/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.invisible-character.net/en/copy-blank-space//"/>
+  </url>
+  <url>
+    <loc>https://www.invisible-character.net/ar/copy-blank-space/</loc>
+    <lastmod>2026-04-22</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.invisible-character.net/en/copy-blank-space/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://www.invisible-character.net/es/copy-blank-space/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://www.invisible-character.net/pt/copy-blank-space/"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://www.invisible-character.net/ar/copy-blank-space/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.invisible-character.net/en/copy-blank-space//"/>
+  </url>
+  <url>
+    <loc>https://www.invisible-character.net/en/blog/how-to-post-blank-status-whatsapp/</loc>
+    <lastmod>2026-04-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.invisible-character.net/en/blog/how-to-post-blank-status-whatsapp/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://www.invisible-character.net/es/blog/how-to-post-blank-status-whatsapp/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://www.invisible-character.net/pt/blog/how-to-post-blank-status-whatsapp/"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://www.invisible-character.net/ar/blog/how-to-post-blank-status-whatsapp/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.invisible-character.net/en/blog/how-to-post-blank-status-whatsapp//"/>
+  </url>
+  <url>
+    <loc>https://www.invisible-character.net/es/blog/how-to-post-blank-status-whatsapp/</loc>
+    <lastmod>2026-04-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.invisible-character.net/en/blog/how-to-post-blank-status-whatsapp/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://www.invisible-character.net/es/blog/how-to-post-blank-status-whatsapp/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://www.invisible-character.net/pt/blog/how-to-post-blank-status-whatsapp/"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://www.invisible-character.net/ar/blog/how-to-post-blank-status-whatsapp/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.invisible-character.net/en/blog/how-to-post-blank-status-whatsapp//"/>
+  </url>
+  <url>
+    <loc>https://www.invisible-character.net/pt/blog/how-to-post-blank-status-whatsapp/</loc>
+    <lastmod>2026-04-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.invisible-character.net/en/blog/how-to-post-blank-status-whatsapp/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://www.invisible-character.net/es/blog/how-to-post-blank-status-whatsapp/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://www.invisible-character.net/pt/blog/how-to-post-blank-status-whatsapp/"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://www.invisible-character.net/ar/blog/how-to-post-blank-status-whatsapp/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.invisible-character.net/en/blog/how-to-post-blank-status-whatsapp//"/>
+  </url>
+  <url>
+    <loc>https://www.invisible-character.net/ar/blog/how-to-post-blank-status-whatsapp/</loc>
+    <lastmod>2026-04-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.invisible-character.net/en/blog/how-to-post-blank-status-whatsapp/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://www.invisible-character.net/es/blog/how-to-post-blank-status-whatsapp/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://www.invisible-character.net/pt/blog/how-to-post-blank-status-whatsapp/"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://www.invisible-character.net/ar/blog/how-to-post-blank-status-whatsapp/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.invisible-character.net/en/blog/how-to-post-blank-status-whatsapp//"/>
+  </url>
+  <url>
+    <loc>https://www.invisible-character.net/en/blog/creative-ways-to-use-invisible-characters/</loc>
+    <lastmod>2026-04-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.invisible-character.net/en/blog/creative-ways-to-use-invisible-characters/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://www.invisible-character.net/es/blog/creative-ways-to-use-invisible-characters/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://www.invisible-character.net/pt/blog/creative-ways-to-use-invisible-characters/"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://www.invisible-character.net/ar/blog/creative-ways-to-use-invisible-characters/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.invisible-character.net/en/blog/creative-ways-to-use-invisible-characters//"/>
+  </url>
+  <url>
+    <loc>https://www.invisible-character.net/es/blog/creative-ways-to-use-invisible-characters/</loc>
+    <lastmod>2026-04-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.invisible-character.net/en/blog/creative-ways-to-use-invisible-characters/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://www.invisible-character.net/es/blog/creative-ways-to-use-invisible-characters/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://www.invisible-character.net/pt/blog/creative-ways-to-use-invisible-characters/"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://www.invisible-character.net/ar/blog/creative-ways-to-use-invisible-characters/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.invisible-character.net/en/blog/creative-ways-to-use-invisible-characters//"/>
+  </url>
+  <url>
+    <loc>https://www.invisible-character.net/pt/blog/creative-ways-to-use-invisible-characters/</loc>
+    <lastmod>2026-04-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.invisible-character.net/en/blog/creative-ways-to-use-invisible-characters/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://www.invisible-character.net/es/blog/creative-ways-to-use-invisible-characters/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://www.invisible-character.net/pt/blog/creative-ways-to-use-invisible-characters/"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://www.invisible-character.net/ar/blog/creative-ways-to-use-invisible-characters/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.invisible-character.net/en/blog/creative-ways-to-use-invisible-characters//"/>
+  </url>
+  <url>
+    <loc>https://www.invisible-character.net/ar/blog/creative-ways-to-use-invisible-characters/</loc>
+    <lastmod>2026-04-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.invisible-character.net/en/blog/creative-ways-to-use-invisible-characters/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://www.invisible-character.net/es/blog/creative-ways-to-use-invisible-characters/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://www.invisible-character.net/pt/blog/creative-ways-to-use-invisible-characters/"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://www.invisible-character.net/ar/blog/creative-ways-to-use-invisible-characters/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.invisible-character.net/en/blog/creative-ways-to-use-invisible-characters//"/>
+  </url>
+  <url>
+    <loc>https://www.invisible-character.net/en/blog/how-to-hide-your-name-on-social-media/</loc>
+    <lastmod>2026-04-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.invisible-character.net/en/blog/how-to-hide-your-name-on-social-media/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://www.invisible-character.net/es/blog/how-to-hide-your-name-on-social-media/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://www.invisible-character.net/pt/blog/how-to-hide-your-name-on-social-media/"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://www.invisible-character.net/ar/blog/how-to-hide-your-name-on-social-media/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.invisible-character.net/en/blog/how-to-hide-your-name-on-social-media//"/>
+  </url>
+  <url>
+    <loc>https://www.invisible-character.net/es/blog/how-to-hide-your-name-on-social-media/</loc>
+    <lastmod>2026-04-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.invisible-character.net/en/blog/how-to-hide-your-name-on-social-media/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://www.invisible-character.net/es/blog/how-to-hide-your-name-on-social-media/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://www.invisible-character.net/pt/blog/how-to-hide-your-name-on-social-media/"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://www.invisible-character.net/ar/blog/how-to-hide-your-name-on-social-media/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.invisible-character.net/en/blog/how-to-hide-your-name-on-social-media//"/>
+  </url>
+  <url>
+    <loc>https://www.invisible-character.net/pt/blog/how-to-hide-your-name-on-social-media/</loc>
+    <lastmod>2026-04-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.invisible-character.net/en/blog/how-to-hide-your-name-on-social-media/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://www.invisible-character.net/es/blog/how-to-hide-your-name-on-social-media/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://www.invisible-character.net/pt/blog/how-to-hide-your-name-on-social-media/"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://www.invisible-character.net/ar/blog/how-to-hide-your-name-on-social-media/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.invisible-character.net/en/blog/how-to-hide-your-name-on-social-media//"/>
+  </url>
+  <url>
+    <loc>https://www.invisible-character.net/ar/blog/how-to-hide-your-name-on-social-media/</loc>
+    <lastmod>2026-04-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.invisible-character.net/en/blog/how-to-hide-your-name-on-social-media/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://www.invisible-character.net/es/blog/how-to-hide-your-name-on-social-media/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://www.invisible-character.net/pt/blog/how-to-hide-your-name-on-social-media/"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://www.invisible-character.net/ar/blog/how-to-hide-your-name-on-social-media/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.invisible-character.net/en/blog/how-to-hide-your-name-on-social-media//"/>
+  </url>
+</urlset>

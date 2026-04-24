@@ -1,0 +1,47 @@
+{
+  "nav": { "home": "Início", "blog": "Blog", "tools": "Ferramentas" },
+  "hero": {
+    "title": "Caractere Invisível",
+    "subtitle": "Clique no botão abaixo para copiar um caractere invisível para a sua área de transferência."
+  },
+  "method1": {
+    "title": "Método 1",
+    "copySmall": "Copiar pequeno ⎵",
+    "copyMedium": "Copiar médio ⎵⎵",
+    "copyLarge": "Copiar grande ⎵⎵⎵"
+  },
+  "method2": {
+    "title": "Método 2",
+    "description": "Gere caracteres vazios ilimitados inserindo o número de espaços em branco que você precisa, clique em \"Copiar\" e cole onde quiser.",
+    "copy": "Copiar",
+    "placeholder": "1"
+  },
+  "testArea": {
+    "title": "Teste aqui",
+    "description": "Cole a letra invisível abaixo para o teste. Se o texto cinza claro desaparecer, significa que seu caractere em branco funcionou!",
+    "placeholder": "Cole o caractere invisível aqui...",
+    "paste": "Colar"
+  },
+  "blankSpaceCopy": { "title": "Copiar e Colar Espaço em Branco", "content": "Nossa ferramenta de Caractere Invisível facilita a geração de textos invisíveis que são espaços e podem ser usados em lugares onde o computador não reconhece o espaço como um caractere real." },
+  "whatIs": { "title": "O que é um Caractere Invisível?", "content": "Um caractere invisível aos olhos humanos, mas que pode ser detectado pelo computador, é conhecido como Caractere Invisível (Caractere Vazio). Esses caracteres fazem parte da tabela Unicode." },
+  "whyUse": { "title": "Por que usar nossa ferramenta?", "content": "Crie Texto em Branco com nossa ferramenta de Caractere Invisível.", "feature1Title": "Copiar e Colar", "feature1": "Copie e use os caracteres vazios diretamente.", "feature2Title": "Caracteres Ilimitados", "feature2": "Gere quantos caracteres invisíveis precisar.", "feature3Title": "Gratuito", "feature3": "Completamente gratuito, sem precisar pagar nada.", "feature4Title": "Sem Instalação", "feature4": "Ferramenta online, sem necessidade de instalação." },
+  "extraFeatures": { "title": "Recursos Extras do Caractere Invisível", "sub": "Alguns recursos extras da nossa ferramenta", "f1Title": "Fácil de Usar", "f1": "Interface intuitiva, fácil até para iniciantes.", "f2Title": "Múltiplos Métodos", "f2": "Escolha entre diferentes métodos para gerar caracteres invisíveis.", "f3Title": "Suporte a Idiomas", "f3": "Nossa ferramenta suporta vários idiomas, incluindo Português do Brasil." },
+  "useCases": { "title": "Onde Usar Caracteres Invisíveis?", "content": "Os caracteres invisíveis podem ser usados para vários fins:", "uc1Title": "1. Mensagens de Texto", "uc1": "Envie mensagens vazias engraçadas para amigos e família.", "uc2Title": "2. Perfil de Redes Sociais", "uc2": "Use em nomes de perfil e bios nas redes sociais.", "uc3Title": "3. Perfis de Jogos", "uc3": "Crie nomes de usuário invisíveis em jogos.", "uc4Title": "4. Para Privacidade", "uc4": "Proteja sua privacidade com caracteres invisíveis." },
+  "otherTools": { "title": "Outras Ferramentas" },
+  "blogs": { "title": "Leia nossos artigos", "readMore": "Leia mais →" },
+  "faq": {
+    "title": "Perguntas frequentes",
+    "q1": "Como posso digitar um Caractere Invisível?",
+    "a1": "Use nossa ferramenta para copiar Textos em Branco e use-os onde quiser.",
+    "q2": "Posso usar Caracteres Invisíveis para enviar uma mensagem em branco no WhatsApp?",
+    "a2": "Sim, use texto em branco para enviar mensagens vazias no WhatsApp ou em qualquer aplicativo de mensagens.",
+    "q3": "A ferramenta de Caractere Invisível é gratuita?",
+    "a3": "Sim, é completamente gratuita. Você não precisa pagar nada.",
+    "q4": "Posso usar Texto em Branco para ocultar meu nome nas redes sociais?",
+    "a4": "Sim, seu nome de usuário ficará oculto quando você usar texto em branco."
+  },
+  "footer": { "description": "Caractere Invisível para Criar Texto Vazio com Múltiplos Espaços em Branco Invisíveis", "resources": "Recursos", "quickLinks": "Links Rápidos", "terms": "Termos e Condições", "privacy": "Política de Privacidade", "contact": "Contato", "copyright": "© Copyright 2026 | invisible-character.net" },
+  "unicodeTable": { "title": "Tabela Unicode", "unicode": "Unicode", "description": "Descrição", "html": "Html", "example": "Exemplo", "copy": "Copiar" },
+  "copied": "Copiado!",
+  "copy": "Copiar"
+}

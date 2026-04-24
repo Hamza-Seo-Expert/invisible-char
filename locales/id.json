@@ -1,0 +1,47 @@
+{
+  "nav": { "home": "Beranda", "blog": "Blog", "tools": "Alat" },
+  "hero": {
+    "title": "Karakter Tidak Terlihat",
+    "subtitle": "Klik tombol di bawah untuk menyalin karakter tak terlihat ke clipboard Anda."
+  },
+  "method1": {
+    "title": "Metode 1",
+    "copySmall": "Salin Kecil ⎵",
+    "copyMedium": "Salin Sedang ⎵⎵",
+    "copyLarge": "Salin Besar ⎵⎵⎵"
+  },
+  "method2": {
+    "title": "Metode 2",
+    "description": "Hasilkan karakter kosong tak terbatas dengan memasukkan jumlah spasi kosong yang Anda butuhkan, lalu klik tombol \"Salin\" dan tempelkan di mana Anda mau.",
+    "copy": "Salin",
+    "placeholder": "1"
+  },
+  "testArea": {
+    "title": "Uji di sini",
+    "description": "Tempelkan huruf tak terlihat di bawah untuk pengujian. Jika teks abu-abu muda menghilang, berarti karakter kosong Anda berfungsi!",
+    "placeholder": "Tempelkan karakter tak terlihat di sini...",
+    "paste": "Tempel"
+  },
+  "blankSpaceCopy": { "title": "Salin dan Tempel Spasi Kosong", "content": "Alat Karakter Tak Terlihat kami memudahkan pembuatan teks tak terlihat yang sebenarnya adalah spasi dan dapat digunakan di tempat-tempat di mana komputer tidak mengenali spasi sebagai karakter sebenarnya." },
+  "whatIs": { "title": "Apa itu Karakter Tak Terlihat?", "content": "Karakter yang tidak terlihat oleh mata manusia tetapi dapat dideteksi dan dibaca oleh komputer dikenal sebagai Karakter Tak Terlihat (Karakter Kosong). Karakter kosong ini merupakan bagian dari tabel Unicode." },
+  "whyUse": { "title": "Mengapa Menggunakan Alat Kami?", "content": "Anda dapat membuat Teks Kosong dengan bantuan Karakter Tak Terlihat kami.", "feature1Title": "Opsi Salin dan Tempel", "feature1": "Alat kami memungkinkan Anda membuat dan menggunakan karakter kosong dengan menyalinnya secara langsung.", "feature2Title": "Jumlah Karakter Tidak Terbatas", "feature2": "Anda dapat menggunakan generator kami untuk mendapatkan jumlah karakter tak terlihat yang tidak terbatas.", "feature3Title": "Gratis Digunakan", "feature3": "Karakter Tak Terlihat kami sepenuhnya gratis digunakan.", "feature4Title": "Tidak Perlu Instalasi", "feature4": "Tidak diperlukan instalasi untuk menggunakan alat online ini." },
+  "extraFeatures": { "title": "Fitur Ekstra Karakter Tak Terlihat", "sub": "Berikut beberapa fitur tambahan dari alat generator teks tak terlihat kami", "f1Title": "Mudah Digunakan", "f1": "Antarmuka kami sangat mudah digunakan bahkan untuk pemula.", "f2Title": "Berbagai Metode", "f2": "Tersedia beberapa metode untuk menghasilkan karakter tak terlihat.", "f3Title": "Dukungan Bahasa", "f3": "Alat kami mendukung berbagai bahasa termasuk Indonesia, Inggris, Arab, dan banyak lagi." },
+  "useCases": { "title": "Di Mana Menggunakan Karakter Tak Terlihat?", "content": "Karakter tak terlihat dapat digunakan untuk berbagai tujuan:", "uc1Title": "1. Pesan Teks", "uc1": "Anda dapat menggunakan karakter ini untuk mengirim pesan kosong yang lucu kepada teman dan keluarga.", "uc2Title": "2. Profil Media Sosial", "uc2": "Karakter tak terlihat dapat digunakan di nama profil dan bio media sosial.", "uc3Title": "3. Profil Gaming", "uc3": "Anda dapat menggunakan karakter tak terlihat untuk membuat nama pengguna gaming menjadi tak terlihat.", "uc4Title": "4. Untuk Privasi", "uc4": "Anda dapat menggunakan karakter tak terlihat untuk tujuan privasi." },
+  "otherTools": { "title": "Alat Lainnya" },
+  "blogs": { "title": "Baca blog kami", "readMore": "Baca Selengkapnya →" },
+  "faq": {
+    "title": "Pertanyaan yang sering diajukan",
+    "q1": "Bagaimana Cara Mengetik Karakter Tak Terlihat?",
+    "a1": "Anda dapat menggunakan alat Karakter Tak Terlihat kami untuk mengetik Teks Kosong. Cukup salin Teks Kosong ini dan gunakan di mana pun Anda mau.",
+    "q2": "Bisakah Saya Menggunakan Karakter Tak Terlihat untuk Mengirim Pesan WhatsApp Kosong?",
+    "a2": "Ya, Anda dapat menggunakan teks kosong untuk mengirim pesan WhatsApp kosong atau aplikasi perpesanan lainnya.",
+    "q3": "Apakah Alat Karakter Tak Terlihat Gratis?",
+    "a3": "Ya, Karakter Tak Terlihat sepenuhnya gratis digunakan. Anda tidak perlu membayar apapun.",
+    "q4": "Bisakah Saya Menggunakan Teks Kosong untuk Menyembunyikan Nama Pengguna Media Sosial Saya?",
+    "a4": "Ya, nama pengguna Anda di profil media sosial akan tersembunyi saat menggunakan teks kosong."
+  },
+  "footer": { "description": "Karakter Tak Terlihat untuk Membuat Teks Kosong dengan Banyak Spasi Kosong Tak Terlihat", "resources": "Sumber Daya", "quickLinks": "Tautan Cepat", "terms": "Syarat & Ketentuan", "privacy": "Kebijakan Privasi", "contact": "Kontak", "copyright": "© Hak Cipta 2026 | invisible-character.net" },
+  "unicodeTable": { "title": "Tabel Unicode", "unicode": "Unicode", "description": "Deskripsi", "html": "Html", "example": "Contoh", "copy": "Salin" },
+  "copied": "Tersalin!",
+  "copy": "Salin"
+}
